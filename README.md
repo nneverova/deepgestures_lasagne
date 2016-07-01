@@ -49,7 +49,7 @@ export LIBRARY_PATH=/path/to/cuda:$LIBRARY_PATH
 
 ## How to ##
 
-1. training_script.py is the main script to initiate training. In this file, modify the path to the Montalbano dataset accordingly. The Montalbano dataset is available at ...
+1. training_script.py is the main script to initiate training. In this file, modify the path to the Montalbano dataset accordingly. The Montalbano dataset is available at http://sunai.uoc.edu/chalearnLAP/ (Track 3: Gesture recognition).
 
 2. initiate the training by calling 
    
