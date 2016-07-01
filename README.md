@@ -1,4 +1,4 @@
-## DeepGesture ##
+## DeepGestures ##
 
 Original Theano implementation by Natalia Neverova
 natalia.neverova@gmail.com
