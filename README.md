@@ -50,8 +50,7 @@ export LIBRARY_PATH=/path/to/cuda:$LIBRARY_PATH
 ## How to ##
 
 1. training_script.py is the main script to initiate training. In this file, modify the path to the Montalbano dataset accordingly.
-It should point toward a preprocessed version of the Montalbano dataset which can be found at this Google Drive Link (note: it is 35 GB):  
-https://drive.google.com/open?id=0B2A1tnmq5zQdZEpBX2REcXdpaUU  
+It should point toward a preprocessed version of the Montalbano dataset which can be found at http://hdl.handle.net/10864/9VNIK. 
 We are working on cleaning up and releasing a set of scripts to provide the full pre-processing routines to convert the original data to our format. The original data is available at http://sunai.uoc.edu/chalearnLAP/ (Track 3: Gesture recognition).
 
 2. initiate the training by calling 
