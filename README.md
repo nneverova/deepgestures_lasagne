@@ -1,6 +1,6 @@
 ## DeepGestures ##
 
-This repository contains the original implementation of the paper "ModDrop: adaptive multi-modal gesture recognition", https://arxiv.org/abs/1501.00102.
+This repository contains the original implementation of the paper Neverova et al., "ModDrop: adaptive multi-modal gesture recognition", IEEE TPAMI, 2016 (https://arxiv.org/abs/1501.00102).
 
 Original Theano implementation by Natalia Neverova
 natalia.neverova@gmail.com
